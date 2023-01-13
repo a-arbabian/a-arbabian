@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ali
-- 👀 I’m interested in photography 📸, espresso ☕️, AI & ML, and Computer Vision 🤖
-- 🌱 I’m currently learning about applications of ML in low-level camera sensor data
+- 👀 I’m interested in AI & ML, and Computer Vision 🤖
+- 🌱 I’m currently learning about graph algorithms and visualization 
 - 💞️ I’m looking to collaborate on cool ML projects, especially if there is a Vision component 👁️
 
 <!---
