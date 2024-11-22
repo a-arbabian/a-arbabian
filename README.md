@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Ali and I’m interested machine intelligence
+- 👋 Hi, I’m Ali
+- Checkout my project www.cinemantic.io, a semantic search engine for movie frames!
 - 🌱 I’m currently learning about:
   - LLMs
   - mechanistic interpretability
