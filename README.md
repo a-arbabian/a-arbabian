@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ali
-- Checkout my project www.cinemantic.io, a semantic search engine for movie frames!
+- Checkout my project [cinemantic](https://www.cinemantic.io), a semantic search engine for movie frames!
 - 🌱 I’m currently learning about:
   - retrieval
   - RL
