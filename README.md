@@ -1,8 +1,9 @@
-💿 Projects:
+💿 projects:
 - [cinemantic](https://cinemantic.aliarby.com), a semantic search engine for movie frames
-- [code-indexer](https://github.com/a-arbabian/code-indexer), Token-efficient code indexer for LLMs
+- [code-indexer](https://github.com/a-arbabian/code-indexer), token-efficient code indexer for LLMs
 
-🌱 I’m currently learning about:
+🌱 i’m currently interested in:
+  - representation learning with SSL
   - large scale retrieval (image/audio/video)
 
 <!---
